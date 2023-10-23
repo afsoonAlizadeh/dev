@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+.angular
+
+# testing
+coverage
+
+# production
+build
